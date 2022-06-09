@@ -1,4 +1,4 @@
-#import Recursive, NonRecursive, RecursiveMemoized
+from .n_stairs_solutions import Recursive, NonRecursive, RecursiveMemoized
 import numpy as np
 import matplotlib.pyplot as plt
 
